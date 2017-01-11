@@ -1,4 +1,0 @@
-getwd()
-#test
-#safd
-#afddsaf
